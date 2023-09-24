@@ -8,90 +8,102 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Cloud and DevOps Engineer
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Tata Consultancy Services.
+  url: "https://www.tcs.com/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'As a highly accomplished Cloud and DevOps Engineer with an unwavering passion for technology and innovation, I have consistently demonstrated my expertise in driving business transformation through the seamless integration of cloud and open-source technologies. With a master degree in software engineering and a track record of success in various roles, I have consistently added value to organizations by accelerating their innovation processes.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "santosh.personalid@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/Santosh-Kumar-Perumal"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/santosh-kumar-perumal/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-# You can put custom buttons to link your relevant resources.
-# For example, you can put link for your resume.
-resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Google Professional Cloud DevOps Engineer
+  url: "https://www.credential.net/57696600-2bb3-41a0-9531-35719aecdcaf?key=d337f1df496e79b646c50d7069fd099edd4b73e455af843304dccbb870ae3fd0"
+  badge: "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48220073"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Google Associate Cloud Engineer
+  url: "https://www.credential.net/bd212e55-e009-40bc-9aaf-64aa5302b866"
+  badge: "https://templates.images.credential.net/16590187933301617801540872729153.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: New Relic Observability Foundations
+  url: "https://credentials.newrelic.com/a017a01d-0c8d-47fa-b978-4d7f8d717d22#gs.5kym7i"
+  badge: "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fd6xizkg50a84m4yxclxez7lm5%2Fpublic%2F1682448983%2FObsFoundationBadge.1682448983317.png"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+- type: certification
+  name: New Relic Observability Practitioner
+  url: "https://credentials.newrelic.com/e365e25a-2b37-426e-8002-583f14cd0129#gs.5kyqa1"
+  badge: "https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2Fd6xizkg50a84m4yxclxez7lm5%2Fpublic%2F1682449021%2FObsPractitionerBadge.1682449021080.png"
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
+- type: certification
+  name: ISC2 Candidate
+  url: "https://www.credly.com/badges/92eee6eb-4e81-4374-acd6-6d8b2ffd0fb1/whatsapp"
+  badge: "https://images.credly.com/size/340x340/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png"
 
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
+- type: certification
+  name: IBM Certified Solution Implementer
+  url: "https://www.credly.com/badges/e3589beb-5a4d-4f9c-9d80-2492add34d67"
+  badge: "https://images.credly.com/size/340x340/images/241a68e7-e245-4c1f-ae6e-d04ecbb5c90f/API_Connect_V5.0.5.png"
+
+
+- type: certification
+  name: IBM Certified Application Developer
+  url: "https://www.credly.com/badges/cadfc479-d496-432b-90f3-e1e10f21d318"
+  badge: "https://images.credly.com/size/340x340/images/b5305b2e-b14a-4795-865a-42bcea924deb/Certified_App_Developer_v2.png"
+
+- type: certification
+  name: Sustainability Essestinals
+  url: "https://drive.google.com/file/d/1YkxMubTa4Gx456jInkY7k-ZYHOo0A2xb/view"
+  badge: "https://pbs.twimg.com/profile_images/1390306870708027393/DQmhbR3R_400x400.jpg"
+
+- type: certification
+  name: CD Foundation Ambassdor
+  url: "https://www.credly.com/badges/e4037961-395b-48e2-aa29-0ed5cb3db521/linked_in_profile"
+  badge: "https://images.credly.com/size/680x680/images/7a1379a4-3d3b-4d6b-8622-33f6824cb821/image.png"
+
+- type: certification
+  name: Google Women Ambassdor
+  url: "https://developers.google.com/profile/u/106640994367033505329"
+  badge: "https://developers.google.com/static/profile/badges/community/wtm/ambassador/specialization/ambassador/badge.svg"
+
+- type: certification
+  name: Open UK Apprentice Ambassdor
+  url: "https://openuk.uk/apprentice-ambassadors/"
+  badge: "https://openuk.uk/wp-content/uploads/2021/03/openuk_favicon.png"
+
+
+# - type: soft-skill-indicator
+#  name: Leadership
+#  percentage: 85
+#  color: blue
+
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

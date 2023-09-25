@@ -7,6 +7,7 @@ section:
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
+  
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
@@ -14,6 +15,7 @@ skills:
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
   url: "https://kubernetes.io/"
+  
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png

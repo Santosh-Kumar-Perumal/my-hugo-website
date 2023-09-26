@@ -17,9 +17,6 @@ skills:
   url: "https://kubernetes.io/"
   
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-
 - name: Docker
   logo: /images/sections/skills/docker.svg
   url: "https://www.docker.com/"
@@ -33,3 +30,23 @@ skills:
 
 - name: C++
   logo: /images/sections/skills/c++.png
+
+- name: GCP
+  logo: /images/sections/skills/gcp.svg
+
+- name: Bash Shell Scritping
+  logo: /images/sections/skills/bash.png
+
+- name: Helm
+  logo: /images/sections/skills/helm.svg
+
+- name: Python
+  logo: /images/sections/skills/python.svg
+
+- name: Terrform
+  logo: /images/sections/skills/terraform.png
+
+- name: New Relic
+
+- name: Splunk
+ 

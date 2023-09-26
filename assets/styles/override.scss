@@ -1,15 +1,37 @@
 .home {
     .background {
-      filter: none !important;
+        filter: none !important;
+        #homePageBackgroundImageDivStyled {
+            background-image: url(https://chimbuchinnadurai.github.io/chimbu-chinnadurai-static-files/images/author/background-2.jpg);
+        }
+        @media (min-width: 500px) and (max-width: 800px) {
+            #homePageBackgroundImageDivStyled {
+                background-image: url(https://chimbuchinnadurai.github.io/chimbu-chinnadurai-static-files/images/author/background-2.jpg);
+            }
+        }
+        @media (min-width: 801px) and (max-width: 1200px) {
+            #homePageBackgroundImageDivStyled {
+                background-image: url(https://chimbuchinnadurai.github.io/chimbu-chinnadurai-static-files/images/author/background-2.jpg);
+            }
+        }
+        @media (min-width: 1201px) and (max-width: 1500px) {
+            #homePageBackgroundImageDivStyled {
+                background-image: url(https://chimbuchinnadurai.github.io/chimbu-chinnadurai-static-files/images/author/background-2.jpg);
+            }
+        }
+        @media (min-width: 1501px) {
+            #homePageBackgroundImageDivStyled {
+                background-image: url(https://chimbuchinnadurai.github.io/chimbu-chinnadurai-static-files/images/author/background-2.jpg);
+            }
+        }
     }
-  }
-
-.skills-section {
-    .card{
-        margin: none;
-         .card-body{
-           display: none;
-         }
-      } 
 }
 
+.skills-section {
+    .card {
+        margin: 0;
+        .card-body {
+            display: none;
+        }
+    }
+}

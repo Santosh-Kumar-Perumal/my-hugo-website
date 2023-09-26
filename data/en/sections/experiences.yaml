@@ -23,7 +23,12 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - 
+    - Designed and implemented infrastructure solutions using Terraform, ensuring the use of best practices and code reusability.
+    - Setting company-wide policies for cloud-resources adding compliance as code checks, penetration tests and vulnerability assessments using tools like SonarQube, JFrog Xray scanning, Image scanning tool etc..
+    - Responsible for the building infrastructure creating landing zone as a part of cloud enablement team , release and SDLC controls using Continuous Integration and Continuous Delivery (CI/CD) workflow.
+    - Implemented SRE practices for the Internet banking application - SLO/SLI/SLA, error budget etc..
+    - Used Confluence extensively as a knowledge platform.
+    - Implemented comprehensive end-to-end cloud and DevOps solutions for our credit risk solution platform.
 
 - company:
     name: Wipro Technologies.
@@ -31,8 +36,24 @@ experiences:
     location: London United Kingdom
     overview: Wipro Enterprises (P) Limited is headquartered in Bangalore, India. The Company primarily carries on the businesses of Consumer care products, Domestic & Commercial lighting and Infrastructure engineering which were transferred pursuant to the Scheme of Arrangement of Wipro Limited (“Wipro”) with effect from March 31, 2013, with the appointed date as on April 1, 2012..
   positions:
-  - designation: Senior Software Engineer
-    start: March 2016
+  - designation: Cloud and DevOps Engineer
+    start: Dec 2018
     end: Feb 2023
     responsibilities:
-    -
+    - Designed and implemented automation scripts and solutions using Bash and Python scripting to automate routine tasks, deployments, data processing, and system maintenance.
+    - Monitored cluster health, resource usage, and performance to proactively identify and address issues.
+
+- company:
+    name: Wipro Technologies.
+    url: "https://www.wipro.com/"
+    location: London United Kingdom
+    overview: Wipro Enterprises (P) Limited is headquartered in Bangalore, India. The Company primarily carries on the businesses of Consumer care products, Domestic & Commercial lighting and Infrastructure engineering which were transferred pursuant to the Scheme of Arrangement of Wipro Limited (“Wipro”) with effect from March 31, 2013, with the appointed date as on April 1, 2012..
+  positions:
+  - designation: Software Engineer
+    start: Oct 2014
+    end: Dec 2018
+    responsibilities:
+    - Part of development team written clean, efficient, and well-documented "C" code for various applications and systems.
+    - Debugged and troubleshooted software defects and issues, identifying root causes and implementing solutions.
+    - Collaborate with cross-functional teams to understand system requirements and design test cases for system and integration testing.
+
